@@ -85,7 +85,7 @@ const I18N = {
     hero_btn_contact: "تواصل معي",
     hero_location: "بورسعيد، مصر",
     hero_degree: "جامعة شرق بورسعيد التكنولوجية",
-    profile_role: "خدمات السياحة والسفر العليا",
+    profile_role: "خدمات السياحة والسفر ",
     stat_projects: "المشاريع",
     stat_certificates: "الشهادات",
     stat_internships: "التدريبات",
